@@ -4,21 +4,17 @@
 // import { DicionCinco } from '../types/ejercicio3';
 import { Alumnos } from '../types/ejercicio4';
 
-
 const App = () => {
   return (
     <div className="mt-2">
       <h1>Ejercicios de Actividad Autonoma</h1>
-        <h3>Bryan Peralta</h3>
+      <h3>Bryan Peralta</h3>
       <hr />
       {/* <Cuadrado/> */}
       {/* <Arreglo/> */}
       {/* <ContadorCinco/> */}
       {/* <DicionCinco/> */}
-      <Alumnos/>
-
-      
-      
+      <Alumnos />
     </div>
   );
 };

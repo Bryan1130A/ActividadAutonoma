@@ -23,7 +23,7 @@ export const Alumnos = () => {
     return (
         <div>
             <h3>Funciones</h3>
-            <span>Eel promedio de todos los estudiantes es {calcularPromedio()}</span>
+            <span>El promedio de todos los estudiantes es {calcularPromedio()}</span>
         </div>
     );
 };

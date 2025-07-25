@@ -1,6 +1,8 @@
 // import { Cuadrado } from './../types/cuadrado';
 // import { Arreglo } from '../types/ejercicio2';
-import { ContadorCinco } from '../types/ejercicio5';
+// import { ContadorCinco } from '../types/ejercicio5';
+// import { DicionCinco } from '../types/ejercicio3';
+import { Alumnos } from '../types/ejercicio4';
 
 
 const App = () => {
@@ -11,7 +13,9 @@ const App = () => {
       <hr />
       {/* <Cuadrado/> */}
       {/* <Arreglo/> */}
-      <ContadorCinco/>
+      {/* <ContadorCinco/> */}
+      {/* <DicionCinco/> */}
+      <Alumnos/>
 
       
       
